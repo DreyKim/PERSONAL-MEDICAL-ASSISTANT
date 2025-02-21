@@ -10,7 +10,7 @@ This project implements a Conversational AI using RASA Open Source Framework. Th
 
 # Design Features
 
-1. Natural Language Understanding (NLU).
+1. Natural Language Processing (NLP).
 
 2. Dialogue Management.
   
